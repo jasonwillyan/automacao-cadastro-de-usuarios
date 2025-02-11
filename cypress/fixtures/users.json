@@ -1,0 +1,11 @@
+{
+  "user": {
+    "nome": "Jason Willyan",
+    "email": "jason@example.com",
+    "emailInvalido": "outroemail@email.com",
+    "senhaForte": "SenhaForte123",
+    "senhaFraca": "12345",
+    "dataNascimento": "2000-01-01"
+  }
+}
+

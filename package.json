@@ -1,0 +1,19 @@
+{
+  "name": "teste_guia_de_moteis",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cypress/grep": "^4.1.0",
+    "cypress": "^14.0.2"
+  },
+  "dependencies": {
+    "teste_guia_de_moteis": "file:"
+  }
+}
