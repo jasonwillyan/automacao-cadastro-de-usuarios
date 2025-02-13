@@ -49,6 +49,10 @@ Para rodar apenas os testes com tags específicas, utilize o comando abaixo com 
 
 Isso executará apenas os testes que possuem a tag @cadastro.
 
+# Resultados
+
+![Resultados dos Testes](cypress/img/resultado.png)
+
 # Outros Testes Relacionados
 
 ### Teste de Performance com K6: https://github.com/jasonwillyan/k6-performance-test
